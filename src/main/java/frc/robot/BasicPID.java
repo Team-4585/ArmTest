@@ -3,7 +3,6 @@ package frc.robot;
 import frc.robot.huskylib.src.RoboDevice;
 
 
-import com.ctre.phoenix.motorcontrol.ControlMode.*;
 import com.revrobotics.*;
 import com.revrobotics.CANSparkMax;
 import com.revrobotics.CANSparkLowLevel.MotorType;
